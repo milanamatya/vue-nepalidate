@@ -1,0 +1,15 @@
+{
+  "name": "vue-nepalidate",
+  "version": "1.0.0",
+  "description": "English to nepali , nepali to english date converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date",
+    "converter"
+  ],
+  "author": "Milan Amatya",
+  "license": "ISC"
+}
